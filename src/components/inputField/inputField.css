@@ -1,0 +1,18 @@
+.inputArea{
+    background:#4a8dba;
+    padding:3rem;
+    display:flex;
+    justify-content: center;
+}
+
+.inputField{
+    font-size:2rem;
+    padding:.5rem 1rem;
+}
+
+.submitBtn{
+    background:#1d5982;
+    padding:0 1rem;
+    border:0;
+    color:#fff;
+}
